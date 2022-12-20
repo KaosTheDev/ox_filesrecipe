@@ -19,7 +19,7 @@ tasks:
 
   ## Download and prepare server.cfg, database and icon
   - action: download_github
-    src: https://github.com/overextended/ox_core_recipe.git
+    src: https://github.com/overextended/ox_core_recipe
     ref: esx
     dest: ./tmp/recipe
 
